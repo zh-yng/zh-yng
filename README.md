@@ -1,4 +1,11 @@
-## Hi there 👋
+## Looking for me? How sweet! 👋
+
+<img width="1488" height="734" alt="carbon (7)" src="https://github.com/user-attachments/assets/41a4726a-2a31-41a6-a5a4-a93b17987537" />
+
+
+
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=zh-yng&langs_count=4)
 
 <!--
 **zh-yng/zh-yng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
