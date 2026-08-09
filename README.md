@@ -6,7 +6,7 @@
 <br>
 
 <span>
-<b>Connect with me!<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
+<b>Let's connect:<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
   &nbsp;
 </b>
     <a href="https://www.linkedin.com/in/zhaoyangkuah" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>&nbsp;&nbsp;
