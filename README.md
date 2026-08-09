@@ -1,6 +1,8 @@
 ## Looking for me? How sweet! 👋
 
-<img width="1444" height="734" alt="carbon (13)" src="https://github.com/user-attachments/assets/f84c6a86-8bf6-4c8a-922e-bcf71bd86b35" />
+<img width="80%" height="734" alt="carbon (13)" src="https://github.com/user-attachments/assets/f84c6a86-8bf6-4c8a-922e-bcf71bd86b35" />
+
+<br>
 
 <span>
 <b>Connect with me!<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
