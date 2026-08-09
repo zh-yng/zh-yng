@@ -1,6 +1,7 @@
 ## Looking for me? How sweet! 👋
 
-<img width="80%" height="734" alt="carbon (13)" src="https://github.com/user-attachments/assets/f84c6a86-8bf6-4c8a-922e-bcf71bd86b35" />
+<img width="80%" height="734" alt="carbon (24)" src="https://github.com/user-attachments/assets/6ddc4eb9-f233-4bad-829e-adbc5c705932" />
+
 
 <br>
 
