@@ -4,6 +4,10 @@
 
 <br>
 
+### Recent Projects
+- **[MonaListen](https://github.com/YOUR_USERNAME/monalisten)**,
+  Hacklanta 2026 🏆 x2 (MLH: Best Use of ElevenLabs, Replit: Best Small Business App)
+
 <span>
 <b>Let's connect:<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
   &nbsp;
