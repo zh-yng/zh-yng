@@ -5,7 +5,7 @@
 <br>
 
 ### Recent Projects
-- **[MonaListen](https://github.com/YOUR_USERNAME/monalisten)**,
+- **[MonaListen](https://github.com/zh-yng/mona-listen)**,
   Hacklanta 2026 🏆 x2 (MLH: Best Use of ElevenLabs, Replit: Best Small Business App)
 
 <span>
